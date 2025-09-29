@@ -3,7 +3,7 @@
 
 # Prof. I-Lin Tsai Lab
 
-The ILT Lab focuses on developing advanced analytical and bioanalytical methodologies to explore the molecular foundations of disease. We specialize in chromatography–mass spectrometry, proteomics, and metabolomics, with a strong emphasis on antibody glycosylation and autoantibody biomarkers. By integrating sensitive detection platforms with translational studies, we aim to identify diagnostic and prognostic biomarkers that provide deeper insight into disease mechanisms and therapeutic opportunities.
+The ILT Lab focuses on developing advanced analytical and bioanalytical methodologies to explore the molecular foundations of disease. We specialize in chromatography–mass spectrometry, proteomics, and metabolomics, with a strong emphasis on antibody glycosylation. By integrating sensitive detection platforms with translational studies, we aim to identify diagnostic and prognostic biomarkers that provide deeper insight into disease mechanisms and therapeutic opportunities.
 
 {% 
   include figure.html image="images/1.jpg" width="80%" 
@@ -22,7 +22,7 @@ The ILT Lab focuses on developing advanced analytical and bioanalytical methodol
 
 {% capture text %}
 
-Topics within the lab revolves around bioanalytical chemistry and its applications to answer relevant clinical questions such as immunoglobulin signature investigation in immunoglobulin-specific diseases, LC-MS/MS method development for quantification of immunoglobulins and glycosylation mapping, proteomics and glycoproteomics, metabolomics, and using multi-omics for discovery diagnostic and prognostic disease markers in blood, urine, exosomes, etc.
+Topics within the lab revolve around bioanalytical chemistry and its applications to answer relevant clinical questions such as immunoglobulin signature investigation in immunoglobulin-specific diseases, LC-MS/MS method development for quantification of antibody and glycosylation mapping, proteomics and glycoproteomics, metabolomics, and using multi-omics integration.
 
 {%
   include button.html
