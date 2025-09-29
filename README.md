@@ -1,7 +1,7 @@
 Visit **[jasonalcano.github.io/ilt-lab-website-draft](https://jasonalcano.github.io/ilt-lab-website-draft)** 🚀
 
-<h1 align="center">I-Lin Tsai Lab (TMU)</h1>
-<h2 align="center"> Department of Biochemistry and Molecular Cell Biology, School of Medicine @ Taipei Medical University </h2>
+<h1 align="center">Prof. I-Lin Tsai Lab (TMU)</h1>
+<h3 align="center"> Department of Biochemistry and Molecular Cell Biology, School of Medicine @ Taipei Medical University </h3>
 <p align="center">
 <img height="800" src="images/iltlab-group-photo.jpg" alt="ILT Lab">
 
