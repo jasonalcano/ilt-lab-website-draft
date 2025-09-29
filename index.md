@@ -62,7 +62,7 @@ Our projects varies from LC-MS instrumentation and method development, immune re
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/proj-1.jpg"
   link="projects"
   title="Our Projects"
   flip=true
