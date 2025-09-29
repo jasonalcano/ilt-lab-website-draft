@@ -1,5 +1,5 @@
 ---
-name: 曉薇
+name: Member 5
 image: images/photo.jpg
 description: MSc Student
 role: MSc Student
