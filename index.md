@@ -3,7 +3,7 @@
 
 # Prof. I-Lin Tsai Lab
 
-The ILT Lab focuses on developing advanced analytical methodologies combined with systems biology to explore the molecular foundations of disease and to identify diagnostic and prognostic biomarkers that provide deeper insight into disease mechanisms and therapeutic opportunities.
+The ILT Lab focuses on developing advanced analytical methodologies combined with systems biology to explore the molecular foundations of disease and identify potential biomarkers that provide deeper insight into disease mechanisms and therapeutic opportunities.
 
 {% 
   include figure.html image="images/1.jpg" width="80%" 
