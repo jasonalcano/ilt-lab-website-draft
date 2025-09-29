@@ -3,7 +3,7 @@
 
 # Prof. I-Lin Tsai Lab
 
-The ILT Lab focuses on applying analytical chemistry in immunoglobulin signature investigation, pharmaceutical analysis, metabolomics and proteomics using liquid chromatography - mass spectrometry and other biochemical techniques.
+The ILT Lab focuses on developing advanced analytical and bioanalytical methodologies to explore the molecular foundations of disease. We specialize in chromatography–mass spectrometry, proteomics, and metabolomics, with a strong emphasis on antibody glycosylation and autoantibody biomarkers. By integrating sensitive detection platforms with translational studies, we aim to identify diagnostic and prognostic biomarkers that provide deeper insight into disease mechanisms and therapeutic opportunities.
 
 {% 
   include figure.html image="images/1.jpg" width="80%" 
@@ -22,7 +22,7 @@ The ILT Lab focuses on applying analytical chemistry in immunoglobulin signature
 
 {% capture text %}
 
-Topics within the lab revolves around bioanalytical chemistry and its applications to answer relevant clinical questions such as immunoglobulin signature investigation in immunoglobulin-specific diseases, LC-MS/MS method development for quantification of immunoglobulins and glycosylation mapping, proteomics and glycoproteomics, metabolomics, and using multi-omics for discovery diagnostic and prognostic disease markers in blood, urine and exosomes.
+Topics within the lab revolves around bioanalytical chemistry and its applications to answer relevant clinical questions such as immunoglobulin signature investigation in immunoglobulin-specific diseases, LC-MS/MS method development for quantification of immunoglobulins and glycosylation mapping, proteomics and glycoproteomics, metabolomics, and using multi-omics for discovery diagnostic and prognostic disease markers in blood, urine, exosomes, etc.
 
 {%
   include button.html
@@ -45,7 +45,7 @@ Topics within the lab revolves around bioanalytical chemistry and its applicatio
 
 {% capture text %}
 
-Our projects vary from LC-MS instrumentation and method development, immune repertoire analysis, immunoglobulin glycosylation analysis, etc.
+Our projects bridge cutting-edge analytical science with urgent biomedical challenges. Current research includes investigating functional antibodies in SARS-CoV-2 infection and vaccination, identifying novel biomarkers and molecular insights for ARDS-induced lung injury and IgA nepropahthy, sepsis-induced acute kidney injury, oral verrucous hyperplasia, etc. Across all projects, our team combines advanced mass spectrometry workflows with multi-omics and systems biology approaches to translate molecular discoveries into clinical insights.
 
 {%
   include button.html
@@ -70,7 +70,7 @@ Our projects vary from LC-MS instrumentation and method development, immune repe
 
 {% capture text %}
 
-We are a dynamic, dedicated and international group composed of undergraduates, masters and PhD students from different colleges in TMU.
+We are a multidisciplinary team of scientists, students, and collaborators dedicated to pushing the boundaries of analytical and translational research. Under the leadership of Prof. I-Lin Tsai, our group brings together expertise in analytical chemistry, molecular biology, clinical science, and bioinformatics. Principal investigators and clinicians collaborate and work closely alongside with graduate students and research staff to develop new methodologies, analyze complex datasets, and apply our findings to real-world biomedical problems.
 
 {%
   include button.html
