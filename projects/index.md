@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our projects bridge cutting-edge analytical science with urgent biomedical challenges. Current research includes investigating functional antibodies in SARS-CoV-2 infection and vaccination, identifying novel biomarkers and molecular insights for ARDS-induced lung injury and IgA nepropahthy, sepsis-induced acute kidney injury, oral verrucous hyperplasia, etc. Across all projects, we combine advanced mass spectrometry workflows with multi-omics and systems biology approaches to translate molecular discoveries into clinical insights.
 
 {% include tags.html tags="publication, resource, website" %}
 
