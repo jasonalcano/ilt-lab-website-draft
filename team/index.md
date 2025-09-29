@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We are an international lab group with dedicated undergraduates, masters and PhD students from College of Pharmacy and College of Medicine at Taipei Medical University. 
+ We are a multidisciplinary team of scientists, students, and collaborators dedicated to pushing the boundaries of analytical and translational research using multi-omics and systems biology. Principal investigators and clinicians collaborate and work closely alongside with graduate students and research staff to develop new methodologies, analyze complex datasets, and apply our findings to real-world biomedical problems.
 
 {% include section.html %}
 
