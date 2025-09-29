@@ -6,7 +6,7 @@
 The ILT Lab focuses on immunoglobulin signature investigation, analytical chemistry, pharmaceutical analysis, metabolomics and proteomics using liquid chromatography - mass spectrometry and other biochemical techniques.
 
 {% 
-  include figure.html image="images/1.jpg" width="60%" 
+  include figure.html image="images/1.jpg" width="80%" 
 %}
 
 {%
