@@ -1,6 +1,6 @@
 Visit **[jasonalcano.github.io/lab-website-draft](https://jasonalcano.github.io/lab-website-draft)** 🚀
 
-<h1 align="center">Lab Website Template</h1>
+<h1 align="center">I-Lin Tsai Lab Draft</h1>
 <p align="center">
 <img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/images/share.jpg?raw=true" alt="Lab Website Template">
 </p>
