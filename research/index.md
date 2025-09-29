@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Topics within the lab revolve around bioanalytical chemistry and its applications to answer relevant clinical questions such as immunoglobulin signature investigation in immunoglobulin-specific diseases, LC-MS/MS method development for quantification of antibody and glycosylation mapping, proteomics and glycoproteomics, metabolomics, and using multi-omics integration.
 
 {% include section.html %}
 
