@@ -24,7 +24,7 @@ Our lab focuses on immunoglobulin signature investigation, analytical chemistry,
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Topics within the lab revolves around bioanalytical chemistry and its applications to answer relevant clinical questions such as immunoglobulin signature investigation in immunoglobulin-specific diseases, LC-MS/MS method development for quantification of immunoglobulins and glycosylation mapping, proteomics and glycoproteomics, metabolomics, and using multi-omics for discovery diagnostic and prognostic disease markers in blood, urine and exosomes.
 
 {%
   include button.html
@@ -39,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/bg-1.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -47,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our projects varies from LC-MS instrumentation and method development, immune repertoire analysis, immunoglobulin glycosylation analysis, etc.
 
 {%
   include button.html
@@ -72,7 +72,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We have a dynamic, dedicated and international group composed of undergraduates, masters and PhD students from different colleges in TMU.
 
 {%
   include button.html
@@ -87,7 +87,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/iltlab-group-photo.jpg"
   link="team"
   title="Our Team"
   text=text
