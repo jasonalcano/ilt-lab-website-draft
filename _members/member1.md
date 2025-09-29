@@ -1,7 +1,7 @@
 ---
-name: John Doe
-image: images/photo.jpg
-role: phd
+name: Tan-Yu Chang 張天語
+image: images/memO.png
+role: Research Assistant
 group: alum
 links:
   github: john-doe
