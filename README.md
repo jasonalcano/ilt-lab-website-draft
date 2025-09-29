@@ -2,7 +2,7 @@ Visit **[jasonalcano.github.io/ilt-lab-website-draft](https://jasonalcano.github
 
 <h1 align="center">I-Lin Tsai Lab @ Taipei Medical University (TMU)</h1>
 <p align="center">
-<img height="600" src="images/iltlab-group-photo.jpg" alt="ILT Lab">
+<img height="800" src="images/iltlab-group-photo.jpg" alt="ILT Lab">
 
 Introduction to the lab :)
   
