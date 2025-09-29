@@ -22,9 +22,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
+<p><h2>Alumni</h2></p>
 {% capture content %}
-
-<h2>Alumni</h2>
 
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
