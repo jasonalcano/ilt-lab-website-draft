@@ -37,7 +37,7 @@ Topics within the lab revolve around bioanalytical chemistry and its application
 
 {%
   include feature.html
-  image="images/bg-1.jpg"
+  image="images/projects.png"
   link="research"
   title="Our Research"
   text=text
