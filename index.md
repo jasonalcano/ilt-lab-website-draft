@@ -45,7 +45,7 @@ Topics within the lab revolves around bioanalytical chemistry and its applicatio
 
 {% capture text %}
 
-Our projects varies from LC-MS instrumentation and method development, immune repertoire analysis, immunoglobulin glycosylation analysis, etc.
+Our projects vary from LC-MS instrumentation and method development, immune repertoire analysis, immunoglobulin glycosylation analysis, etc.
 
 {%
   include button.html
