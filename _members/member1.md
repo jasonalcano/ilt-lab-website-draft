@@ -1,6 +1,6 @@
 ---
 name: Tan-Yu Chang 張天語
-image: images/memO.png
+image: images/mem0.png
 role: Research Assistant
 group: alum
 links:
