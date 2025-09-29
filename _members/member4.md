@@ -1,8 +1,8 @@
 ---
 name: 曉薇
-image: images/mem2.png
-description: PhD Student
-role: PhD Student
+image: images/photo.jpg
+description: MSc Student
+role: MSc Student
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
