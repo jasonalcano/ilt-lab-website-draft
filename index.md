@@ -72,7 +72,7 @@ Our projects varies from LC-MS instrumentation and method development, immune re
 
 {% capture text %}
 
-We have a dynamic, dedicated and international group composed of undergraduates, masters and PhD students from different colleges in TMU.
+We are a dynamic, dedicated and international group composed of undergraduates, masters and PhD students from different colleges in TMU.
 
 {%
   include button.html
