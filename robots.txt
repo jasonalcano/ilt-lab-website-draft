@@ -1,1 +1,1 @@
-Sitemap: https://greenelab.github.io/lab-website-template/sitemap.xml
+Sitemap: https://jasonalcano.github.io/lab-website-draft/sitemap.xml
