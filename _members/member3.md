@@ -1,7 +1,7 @@
 ---
 name: 曉薇
 image: images/mem2.png
-description: Lead Programmer
+description: PhD Student
 role: PhD Student
 links:
   email: sarah.johnson@gmail.com
