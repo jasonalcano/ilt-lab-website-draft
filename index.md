@@ -3,10 +3,10 @@
 
 # Prof. I-Lin Tsai Lab
 <p align="center">
-<img height="600" src="images/1.jpg" alt="ILT Lab">
-
-Our lab focuses on immunoglobulin signature investigation, analytical chemistry, pharmaceutical analysis, metabolomics and proteomics using liquid chromatography - mass spectrometry and other biochemical techniques.
+<img height="400" src="images/1.jpg" alt="ILT Lab">
 </p>
+Our lab focuses on immunoglobulin signature investigation, analytical chemistry, pharmaceutical analysis, metabolomics and proteomics using liquid chromatography - mass spectrometry and other biochemical techniques.
+
 {%
   include button.html
   type="github"
