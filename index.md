@@ -3,7 +3,7 @@
 
 # Prof. I-Lin Tsai Lab
 
-The ILT Lab focuses on developing advanced analytical and bioanalytical methodologies to explore the molecular foundations of disease. We specialize in chromatography–mass spectrometry, proteomics, and metabolomics, with a strong emphasis on antibody glycosylation. By integrating sensitive detection platforms with translational studies, we aim to identify diagnostic and prognostic biomarkers that provide deeper insight into disease mechanisms and therapeutic opportunities.
+The ILT Lab focuses on developing advanced analytical methodologies combined with systems biology techniques to explore the molecular foundations of disease to identify diagnostic and prognostic biomarkers that provide deeper insight into disease mechanisms and therapeutic opportunities.
 
 {% 
   include figure.html image="images/1.jpg" width="80%" 
