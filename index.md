@@ -45,7 +45,7 @@ Topics within the lab revolve around bioanalytical chemistry and its application
 
 {% capture text %}
 
-Our projects bridge cutting-edge analytical science with urgent biomedical challenges. Current research includes investigating functional antibodies in SARS-CoV-2 infection and vaccination, identifying novel biomarkers and molecular insights for ARDS-induced lung injury and IgA nepropahthy, sepsis-induced acute kidney injury, oral verrucous hyperplasia, etc. Across all projects, our team combines advanced mass spectrometry workflows with multi-omics and systems biology approaches to translate molecular discoveries into clinical insights.
+Our projects bridge cutting-edge analytical science with urgent biomedical challenges. Current research includes investigating functional antibodies in SARS-CoV-2 infection and vaccination, identifying novel biomarkers and molecular insights for ARDS-induced lung injury and IgA nepropahthy, sepsis-induced acute kidney injury, oral verrucous hyperplasia, etc. 
 
 {%
   include button.html
@@ -70,7 +70,7 @@ Our projects bridge cutting-edge analytical science with urgent biomedical chall
 
 {% capture text %}
 
-We are a multidisciplinary team of scientists, students, and collaborators dedicated to pushing the boundaries of analytical and translational research. Under the leadership of Prof. I-Lin Tsai, our group brings together expertise in analytical chemistry, molecular biology, clinical science, and bioinformatics. Principal investigators and clinicians collaborate and work closely alongside with graduate students and research staff to develop new methodologies, analyze complex datasets, and apply our findings to real-world biomedical problems.
+We are a multidisciplinary team of scientists, students, and collaborators dedicated to pushing the boundaries of analytical and translational research using multi-omics and systems biology. 
 
 {%
   include button.html
