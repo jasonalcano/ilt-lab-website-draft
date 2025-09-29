@@ -22,7 +22,7 @@ The ILT Lab focuses on developing advanced analytical methodologies combined wit
 
 {% capture text %}
 
-Topics within the lab revolve around bioanalytical chemistry and its applications to answer relevant clinical questions such as immunoglobulin signature investigation in immunoglobulin-specific diseases, LC-MS/MS method development for quantification of antibody and glycosylation mapping, proteomics and glycoproteomics, metabolomics, and using multi-omics integration.
+Topics within the lab revolve around bioanalytical chemistry and its applications to answer relevant clinical questions such as immunoglobulin signature investigation in immunoglobulin-specific diseases, proteomics and glycoproteomics, metabolomics, and using multi-omics integration.
 
 {%
   include button.html
@@ -45,7 +45,7 @@ Topics within the lab revolve around bioanalytical chemistry and its application
 
 {% capture text %}
 
-Our projects bridge cutting-edge analytical science with urgent biomedical challenges. Current research includes investigating functional antibodies in SARS-CoV-2 infection and vaccination, identifying novel biomarkers and molecular insights for ARDS-induced lung injury and IgA nepropahthy, sepsis-induced acute kidney injury, oral verrucous hyperplasia, etc. 
+Our projects bridge cutting-edge analytical science with urgent biomedical challenges. Recent research interests in our lab includes investigating functional antibodies in SARS-CoV-2 infection and vaccination, identifying novel biomarkers and molecular insights for ARDS-induced lung injury and IgA nepropahthy, etc.
 
 {%
   include button.html
